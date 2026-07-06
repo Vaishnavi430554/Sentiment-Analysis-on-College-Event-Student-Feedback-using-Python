@@ -101,7 +101,7 @@ The project includes:
 
 ### Top 5 Rated Survey Questions
 
-![top 5 rated](image.png)
+![Top 5 Rated Survey Questions](image1.png)
 
 ---
 
